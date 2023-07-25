@@ -56,3 +56,21 @@ body {
 #question {
     padding: 20px;
 }
+
+/* Buttons */
+
+.btn {
+    background: #fff;
+    color: #000;
+    font-size: 16px;
+    font-weight: 600;
+    width: 100%;
+    border: 1.8px solid #006aa8;
+    padding: 10px;
+    margin: 10px 0;
+    text-align: left;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
