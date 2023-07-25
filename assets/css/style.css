@@ -83,7 +83,7 @@ body {
     cursor: no-drop;
 }
 
-#next-btn {
+#next {
     background: #fdcc00;
     color: #333;
     font-size: 16px;
@@ -116,4 +116,22 @@ footer {
     color: #000;
     text-align: center;
     font-size: 100%;
+}
+
+.s-media-icons {
+    text-align: center;
+}
+
+.s-media-icons>li {
+    display: inline;
+}
+
+.s-media-icons i {
+    font-size: 130%;
+    margin: 2%;
+    color: #000;
+}
+
+#s-media {
+    padding: 10px;
 }
